@@ -1,5 +1,5 @@
-# **Deni Setiawan** 
-`Software Engineer` `Research & Development` `DevOps`
+# **Deni Setiawan**
+`Software Engineer` `Research & Development`
 
 Email: ofc.denisetiawan@gmail.com   
 Personal Site: [https://stwn.dev](https://stwn.dev)  
@@ -10,8 +10,6 @@ Location: Jakarta, Indonesia
 ## **Professional Summary**
 
 I am a Software Engineer with over 5 years of experience, specializing in building web applications and systems infrastructure.
-
-Currently, I work in the airline SaaS sector, where I design, develop, and maintain web products such as Passenger Service Systems (PSS) and Internet Booking Engines (IBE). In the middle of my software engineering role, I was join join the system infrastructure team, where I gained extensive experience in system infrastructure, such as skills in Linux system administration, Nginx web server configuration, cloud computing / on prem server. Additionally, I have experience in monitoring tools like Grafana integrated with Prometheus, ensuring system reliability and performance.
 
 ## **Technical Skills**
 
@@ -37,6 +35,7 @@ PT. Sqiva Sistem | Jakarta, ID
 - Helping cruise lead infra team to make initial infrastructure diagram such as how the load balancer work from public to web app and to rds server, how to handle session sharing using redis and share storage using simple storage service.
 - Research about Git, Github, and Jenkins, focusing on making DevOps CI/CD Pipeline with versioning and branch strategy for cruise project. which resulted in easy to deploy app from local to test, staging, and production.
 - Research about docker container, focusing on making development local app has consistency dependency across other developer. the goal is making developer has same application configuration in local and production server.
+- Research about Grafana and prometheus, focusing to moving from old monitoring system (manual) into grafana dashboard and custom collect metric using prometheus. which resulted in easier to look and analysis server condition.
 - Mentoring Program, teaching software engineer intern about web application Yii2, Javascript, Oracle base on company standard. fostering a collaborative learning environment.
 - Mentoring Program, teaching associate system infrastructure intern how the infrastructure on company works, and fundamental of server admin such as linux administration, web & database server work, nginx web server proxy, setup application & database server, etc. fostering a collaborative learning environment.
 
