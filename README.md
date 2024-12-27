@@ -1,5 +1,5 @@
 # **Deni Setiawan**
-`Software Engineer` `Research & Development`
+`Software Engineer in Web Development` `Research & Development` `DevOps`
 
 Email: ofc.denisetiawan@gmail.com   
 Personal Site: [https://stwn.dev](https://stwn.dev)  
@@ -9,16 +9,20 @@ Location: Jakarta, Indonesia
 
 ## **Professional Summary**
 
-I am a Software Engineer with over 5 years of experience, specializing in building web applications and systems infrastructure.
+I am a person with over 5 years of experience of specializing in building web applications.
+
+Yeah I'd love building website applications. Over the past five years, I’ve built web applications primarily using PHP frameworks and any other web development stack.
+
+Currently, I work on the Airline SaaS sector, building and maintaining products like Passenger Service Systems (PSS) and Internet Booking Engines (IBE). I also have experience in System Infrastructure, where I developed skills in Linux Administration, Cloud, DevOps, CI/CD, and monitoring tools like Grafana and Prometheus. Additionally, I am bilingual in English (conversational) and Indonesian (native).
+
+I’m always open to connecting and exploring new opportunities. Feel free to reach out!
 
 ## **Technical Skills**
 
-- **Proficient Languages:** PHP, JavaScript
-- **Frameworks:** Yii2, Laravel, React  
-- **Databases:** Oracle, PostgreSQL  
-- **Tools:** VScode, Linux, Nginx, Docker, Prometheus Grafana
-- **Version Control:** Git (GitHub, Gitea), SVN (tortoise svn)
-- **Exploring**: Golang, Kubernetes, Kafka.
+**Proficient Languages**: PHP, Javascript, SQL  
+**Tools**: Visual Studio Code, Docker, Github, SVN, ReactJS, NextJS.  
+**Exploring**: Golang, React Optimization, Kubernetes, Kafka.  
+**Languages**: Indonesia, English  
 
 ## **Work Experience**
 
@@ -26,34 +30,31 @@ I am a Software Engineer with over 5 years of experience, specializing in buildi
 PT. Sqiva Sistem | Jakarta, ID     
 *Jan 2021 – Present*
 
-- Develop interline codeshare airline feature (first phase), focusing integrate system with other airline reservation system by messaging protocol. which resulted to increase sales of the two airlines that are collaborating and data migration between airline system. and also gained largest airline india to using the system.
-- Contribute to Loyalty Airline project, intergrate passenger service system with loyalty application.
-- Tune serveral report menu, focusing on finding what cause the query slow and try to improve using index and improve join table, which resulted to generate report more faster by 40%. there was a inventory report that reported realy slow than I tune up and its get 90% faster.
-- Implement caching data on several API modules, which resulted to online travel agent getting data more faster and making less impact into database server.
-- join system infrastructure under software engineer to help manage current application server, database server, cloud infrastructure. I learn a lot in this position such as setup new app/db server which resulting to learn linux, cronjob / scheduler, scripting bash, nginx web server, load balancer, dns, network setup. setup SMTP server for internal private mail. setup database standby server. scalling up server which also resulted in reducing cost of infra usage and speed up the peformance by 20%.
-- Managing eCB infrastructure server in AWS, which resulted in learning about EC2, Load balancer, AWS SES, RDS.
-- Helping cruise lead infra team to make initial infrastructure diagram such as how the load balancer work from public to web app and to rds server, how to handle session sharing using redis and share storage using simple storage service.
-- Research about Git, Github, and Jenkins, focusing on making DevOps CI/CD Pipeline with versioning and branch strategy for cruise project. which resulted in easy to deploy app from local to test, staging, and production.
-- Research about docker container, focusing on making development local app has consistency dependency across other developer. the goal is making developer has same application configuration in local and production server.
-- Research about Grafana and prometheus, focusing to moving from old monitoring system (manual) into grafana dashboard and custom collect metric using prometheus. which resulted in easier to look and analysis server condition.
-- Mentoring Program, teaching software engineer intern about web application Yii2, Javascript, Oracle base on company standard. fostering a collaborative learning environment.
-- Mentoring Program, teaching associate system infrastructure intern how the infrastructure on company works, and fundamental of server admin such as linux administration, web & database server work, nginx web server proxy, setup application & database server, etc. fostering a collaborative learning environment.
+- Developed the first phase of the interline codeshare airline feature, integrating systems between other airline reservation systems via messaging protocols. Enabled seamless data migration. Played a key role in securing one of India’s largest airlines to adopt the systems.
+- Optimized several report menus by identifying and resolving slow query issues through query plan check, indexing and refining table joins. Achieved a 60% overall improvement in report generation speed.
+- Led system infrastructure team as a software engineer, managing application, database servers. Gained hands-on experience in setting up production or backup server, linux, bash scripting, nginx proxy, load balancer, and etc. scaled infrastructure to reduce costs and improve performance.
+- Helping the eCB infrastructure team to manage AWS Services, which led to learning about EC2, ELB, AWS SES, and RDS.
+- Designed and implemented the foundational infrastructure diagram for the cruise lead team, detailing load balancer workflows from public to application server and RDS server. setting up a scalable architecture to support up to 1.000+ concurrent users and improve system reliability for the application.
+- Led research about Git, Github, and Jenkins focusing on creating CI/CD Pipeline with versioning and branch strategy for cruise application. Which improved deployment more efficiently.
+- Led research about Docker, focusing on making development local apps has consistency dependencies among other developers. Which makes improvement on development setup.
+- Led 2 members of the infrastructure team to research Grafana with Prometheus, focusing on moving from old manual monitoring to grafana dashboard and custom collect metric using prometheus.
+- Trained 3 new Associate of Software Engineers about Web Development using company standard
+- Trained 1 new Associate of system administrator about linux, nginx, setup app and database server, setup database recovery server and any other related to sysadmin.
 
 **Associate Software Engineer**  
 PT. Sqiva Sistem | Jakarta, ID      
 *Jan 2020 – Jan 2021*
 
-- Contribute to Electronic Cabin Bag (eCB) project, helping team to develop several master menu that inteegrated with other eCB service which resulted in to speed up development by 30%. implement password encryption environment from app to database server and can be updated from user with console admin that can pass PCI DSS compliant.
-- Contribute to in flight shop application (onboard e-commerce), focusing to create in flight shop menu user can choose an items, filter items, calculate total price, checkout and integrate with onboard database.
-- Contribute in IBE (Internet Booking Engine), develop and maintaining features, bugs on existing IBE application. develop seatmap display from API, making online check-in that support non connecting and connecting flight. integrate IBE with payment gateway such as PayUBiz and create a display e-ticket, boarding pass pdf.
-- Day 2 Day develop, maintaining features on various airline-related app (Passenger Service System, Departure Control System).
+- Contributed to the Electronic Cabin Bag project by developing 5+ master menu features that connected with other eCB services, reducing development time by 30%. Applied a secure password encryption mechanism between the application and database server, enabling user update via admin console while ensuring PCI DSS compliance.
+- Built an in-flight shop application, creating a user-friendly responsive shopping menu for 20+ items. Designed and developed features for item selection, advanced filtering, total price calculation and checkout. Seamlessly integrated the application with the onboard database and onground eCB application.
+- Enhanced Internet Booking Engine (IBE), enhancing features and resolving bugs to improve functionality for 1.000+users. Developed a seat map display base API and an online check-in system that supports connecting and non-connecting flights. Connect IBE with payment gateways like PayUBiz to handle 1.000+ transactions monthly.
 
 **Software Engineer Intern**  
 PT. Sqiva Sistem | Jakarta, ID         
 *May 2019 – Jan 2020*
 
-- Particapted in an internal project "workorder" with senior team, focusing on developing core features using Yii2, Javascript, & Bootstrap 4, which resulted new fresh user interface of project and make work order business flow more efficient than the old one by 50%.
-- Recreate airline cargo system with other intern, focusing on making cargo app can be access by all client instead of 1 app for 1 client using Yii2 and integrate with PSS system.
+- Collaborated on the WorkOrder project alongside the senior team to develop core features using Yii2, Javascript, and Bootstrap 4. Delivered a refreshed user interface and optimized the work order business flow improving efficiency by 40% compared to the previous system.
+- Redesigned the airline cargo system in collaboration with other interns, focusing on transitioning from a single-client application to a multi-client platform. Leveraged Yii2 to develop the solution and successfully linked it with Passenger Service System PSS.
 
 ## **Education**
 
