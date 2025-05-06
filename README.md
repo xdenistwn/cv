@@ -9,7 +9,7 @@ Location: Jakarta, Indonesia
 
 ## **Professional Summary**
 
-I am a person with over 5 years of experience of specializing in building web applications.
+Over 5 years of experience of specializing in building web applications.
 
 Yeah I'd love building website applications. Over the past five years, I’ve built web applications primarily using PHP frameworks and any other web development stack.
 
@@ -19,9 +19,9 @@ I’m always open to connecting and exploring new opportunities. Feel free to re
 
 ## **Technical Skills**
 
-**Proficient Languages**: PHP, Javascript, SQL  
+**Proficient Languages**: PHP, Javascript, SQL (Oracle, Postgres)
 **Tools**: Visual Studio Code, Docker, Github, SVN, ReactJS, NextJS.  
-**Exploring**: Golang, React Optimization, Kubernetes, Kafka.  
+**Exploring**: Go Language, React Optimization, Kafka.
 **Languages**: Indonesia, English  
 
 ## **Work Experience**
