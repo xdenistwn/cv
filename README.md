@@ -9,13 +9,13 @@ Location: Jakarta, Indonesia
 
 ## **Professional Summary**
 
-Over 5 years of experience of specializing in building web applications.
+Software Engineer with 5+ years of experience.
 
-Yeah I'd love building website applications. Over the past five years, I’ve built web applications primarily using PHP frameworks and any other web development stack.
+Actively exploring Go Language, infrastructure foundation, and front-end optimization. Bilingual in Indonesian (native) and English (conversational). Always pen to new connections and opportunities, feel free to reach out! 🥂.
 
-Currently, I work on the Airline SaaS sector, building and maintaining products like Passenger Service Systems (PSS) and Internet Booking Engines (IBE). I also have experience in System Infrastructure, where I developed skills in Linux Administration, Cloud, DevOps, CI/CD, and monitoring tools like Grafana and Prometheus. Additionally, I am bilingual in English (conversational) and Indonesian (native).
+Currently working in the Airline SaaS space, building and maintaining systems like PSS and IBE. Experienced in system infrastructure Linux, cloud setup, CI/CD pipelines, and monitoring with OSS tools.
 
-I’m always open to connecting and exploring new opportunities. Feel free to reach out!
+Porto: https://stwn.dev
 
 ## **Technical Skills**
 
