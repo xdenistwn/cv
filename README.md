@@ -19,10 +19,10 @@ Porto: https://stwn.dev
 
 ## **Technical Skills**
 
-**Proficient Languages**: PHP, Javascript, SQL (Oracle, Postgres)
-**Tools**: Visual Studio Code, Docker, Github, SVN, ReactJS, NextJS.  
-**Exploring**: Go Language, React Optimization, Kafka.
-**Languages**: Indonesia, English  
+**Proficient Languages**: Go, PHP, Oracle, Postgres, Redis, Kafka, Javascript, NextJS, HTML, CSS
+**Tools**: Docker Container, Github, Gitea, Visual Studio Code  
+**Exploring**: Microservices with Go Language, React Optimization.
+**Languages**: Indonesia, English
 
 ## **Work Experience**
 
@@ -30,16 +30,16 @@ Porto: https://stwn.dev
 PT. Sqiva Sistem | Jakarta, ID     
 *Jan 2021 – Present*
 
-- Developed the first phase of the interline codeshare airline feature, integrating systems between other airline reservation systems via messaging protocols. Enabled seamless data migration. Played a key role in securing one of India’s largest airlines to adopt the systems.
+- Developed the first phase of the interline codeshare airline feature, integrating systems between other airline reservation systems via messaging protocols. Enabled seamless data migration. Played a key role in securing one of India’s airlines to adopt the systems.
 - Optimized several report menus by identifying and resolving slow query issues through query plan check, indexing and refining table joins. Achieved a 60% overall improvement in report generation speed.
-- Led system infrastructure team as a software engineer, managing application, database servers. Gained hands-on experience in setting up production or backup server, linux, bash scripting, nginx proxy, load balancer, and etc. scaled infrastructure to reduce costs and improve performance.
-- Helping the eCB infrastructure team to manage AWS Services, which led to learning about EC2, ELB, AWS SES, and RDS.
-- Designed and implemented the foundational infrastructure diagram for the cruise lead team, detailing load balancer workflows from public to application server and RDS server. setting up a scalable architecture to support up to 1.000+ concurrent users and improve system reliability for the application.
-- Led research about Git, Github, and Jenkins focusing on creating CI/CD Pipeline with versioning and branch strategy for cruise application. Which improved deployment more efficiently.
-- Led research about Docker, focusing on making development local apps has consistency dependencies among other developers. Which makes improvement on development setup.
-- Led 2 members of the infrastructure team to research Grafana with Prometheus, focusing on moving from old manual monitoring to grafana dashboard and custom collect metric using prometheus.
-- Trained 3 new Associate of Software Engineers about Web Development using company standard
-- Trained 1 new Associate of system administrator about linux, nginx, setup app and database server, setup database recovery server and any other related to sysadmin.
+- Built data caching on several API modules, reducing API response times by 50% for online travel agents and decreasing database server usage by 30%.
+- Moved and Led system infrastructure team as a software engineer to manage application and database servers. Gained hands-on experience in handling, setting up production, backup server, linux, automation with bash scripting, nginx proxy, load balancer. scaled infrastructure to reduce costs and improve performance by 10%
+- Assist the eCB infrastructure team to manage AWS Services. Led to my learning about EC2, ELB, AWS SES, and RDS.
+- Assist the cruise team to design and implement the foundational infrastructure diagram, detailing load balancer workflows from public to application server and RDS server. Deployed centralized session sharing using Redis and shared object storage on Huawei Cloud Service, setting up a future scalable architecture and system reliability for the application.
+- Led and introduced Git, Gitea self host, and Jenkins focusing on creating new CI/CD Pipeline and branch strategy for cruise team projects. This improved deployment efficiently.
+- Implement containers using Docker, focusing on making development local apps that have consistency dependencies with production servers among other developers. This improved the onboarding process for new employees faster in the development setup.
+- Led 2 members of the infrastructure team to research Grafana with Prometheus, focusing on moving from old manual monitoring to grafana dashboard and custom collect metric using prometheus. This transition improved server condition monitoring, reporting, and analysis.
+- Mentored 4 Associate Software Engineers and 1 Associate System Engineer, helped them onboard and become familiar with company tech stacks, standards, and best practices.
 
 **Associate Software Engineer**  
 PT. Sqiva Sistem | Jakarta, ID      
