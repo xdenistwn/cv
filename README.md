@@ -13,8 +13,6 @@ Actively exploring Go Language, infrastructure foundation. Always open to new co
 
 Currently working in the Airline SaaS space, building and maintaining systems like PSS and IBE. Experienced in system infrastructure Linux, cloud setup, CI/CD pipelines, and monitoring with OSS tools.
 
-Porto: https://stwn.dev
-
 ## **Technical Skills**
 
 **Proficient Languages**: Go, PHP, Oracle, Postgres, Redis, Kafka, Javascript, NextJS, HTML, CSS  
