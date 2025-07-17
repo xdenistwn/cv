@@ -1,17 +1,14 @@
 # **Deni Setiawan**
-`Software Engineer in Web Development` `Research & Development` `DevOps`
+`Software Engineer in Web Development` `Research & Development`
 
-Email: ofc.denisetiawan@gmail.com   
-Personal Site: [https://stwn.dev](https://stwn.dev)  
-LinkedIn: [https://www.linkedin.com/in/xdenistwn](https://www.linkedin.com/in/xdenistwn)  
-GitHub: [https://github.com/xdenistwn](https://github.com/xdenistwn)  
 Location: Jakarta, Indonesia  
+ofc.denisetiawan@gmail.com | [stwn.dev](https://stwn.dev) | [linkedIn](https://www.linkedin.com/in/xdenistwn) 
 
 ## **Professional Summary**
 
-Software Engineer with 5+ years of experience.
+Software engineer with 5 years of experience, mainly focused on backend development using Go and PHP. I enjoy researching and designing systems that can scale well and be reliable. I occasionally handle frontend tasks using NextJS.
 
-Actively exploring Go Language, infrastructure foundation, and front-end optimization. Bilingual in Indonesian (native) and English (conversational). Always pen to new connections and opportunities, feel free to reach out! 🥂.
+Actively exploring Go Language, infrastructure foundation. Always open to new connections and opportunities, feel free to reach out! 🥂.
 
 Currently working in the Airline SaaS space, building and maintaining systems like PSS and IBE. Experienced in system infrastructure Linux, cloud setup, CI/CD pipelines, and monitoring with OSS tools.
 
@@ -19,9 +16,9 @@ Porto: https://stwn.dev
 
 ## **Technical Skills**
 
-**Proficient Languages**: Go, PHP, Oracle, Postgres, Redis, Kafka, Javascript, NextJS, HTML, CSS
+**Proficient Languages**: Go, PHP, Oracle, Postgres, Redis, Kafka, Javascript, NextJS, HTML, CSS  
 **Tools**: Docker Container, Github, Gitea, Visual Studio Code  
-**Exploring**: Microservices with Go Language, React Optimization.
+**Exploring**: Microservices with Go Language, React Optimization.  
 **Languages**: Indonesia, English
 
 ## **Work Experience**
